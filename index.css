@@ -1,0 +1,73 @@
+/*CSS*/
+
+body {
+    background-color: azure;
+}
+
+.title {
+    background: url("resources/img/img1.jpeg");
+    background-color: midnightblue .5;
+    padding: 5%;
+}
+
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.content {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.content-title{
+    margin-top: 2%;
+    margin-bottom: 2%; 
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left; 
+}
+
+h3{
+    padding: 2%; 
+}
+
+h3.content-title-green{
+    background-color: green;
+}
+
+h3.content-title-pink{
+    background-color: rgb(189, 75, 94);
+}
+
+h3.content-title-blue{
+    background-color:rgb(48, 86, 156);
+}
+
+img{
+    margin-left: 2%;
+}
+
+p{
+    margin-left: 2%;
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+b {
+    font-weight: bolder;
+}
+
+b.bold-blue{
+    color:rgb(17, 69, 243);
+}
+
+b.bold-blue:hover{
+    color:rgb(20, 20, 102);
+}
+
